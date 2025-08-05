@@ -1,0 +1,13 @@
+streamlit
+langchain
+groq
+python-docx
+pandas
+pdfplumber
+spacy
+nltk
+scikit-learn
+numpy
+pillow
+python-dotenv
+fuzzywuzzy
